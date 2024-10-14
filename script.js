@@ -18,7 +18,7 @@ const addItem = (product, quantity) => {
 }
 const checkAvailability = () => {
     // let device = {};
-
+    // const localCard = localStorage.getItem("device");
     // if(localCard){
     //     device = JSON.parse(localStore)
     // } 
